@@ -1,1 +1,12 @@
+/*Alfonso Francisco De Abiega L'Eglisse
+clase 3 ejercicio 2*/
 
+#include <stdio.h>
+
+void main()
+{ 
+  for(int i = 100; i >= 1; i--)
+    {
+      printf("Num: %d\n", i);
+    }
+}
